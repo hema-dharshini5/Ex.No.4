@@ -71,9 +71,14 @@ We can improve performance by deploying smart sensors, machine learning models f
 
 ## 4. Prompt Size Limitations
 
+The prompt size limitation refers to the maximum amount of text (input + output) that an AI model like ChatGPT (GPT-5) can handle in a single request. This includes:
 
-![image](https://github.com/user-attachments/assets/106c5128-f8e2-4239-8c7a-22062e7cbba8)
+Your prompt text (everything you send)
 
+The model’s response text (everything it generates)
+
+
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/35a26246-52f0-40d2-899b-ca8157f0db53" />
 
 
 
